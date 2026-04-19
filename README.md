@@ -6,15 +6,4 @@ here my pcb
 <img width="497" height="487" alt="Screenshot 2026-04-18 at 7 25 20 PM" src="https://github.com/user-attachments/assets/c7ee6942-7630-4664-9411-ba42252690aa" />
 here is my case 
 <img width="822" height="492" alt="Screenshot 2026-04-18 at 7 25 42 PM" src="https://github.com/user-attachments/assets/ab3bd300-f3e6-4536-af14-91c2dece892c" />
-Name	Purpose	Qty	Cost (USD)	Distributor
-7.3" E Ink Spectra 6 Display 800x480	Display	1	$47.34	Good Display
-Resistor 4.7kΩ 0402	Resistor	100	$0.08	LCSC
-Pin Socket 1×08 2.54mm	Socket	5	$0.53	LCSC
-USB-C Receptacle 16P HRO TYPE-C-31-M-12	USB-C	5	$0.85	LCSC
-Switch 6×6×5mm	Button	5	$0.36	LCSC
-Resistor 1.2kΩ 0402	Resistor	100	$0.09	LCSC
-BME280	Temp/humidity sensor	1	$7.42	LCSC
-ME6211C33M5G-N	Voltage regulator	10	$0.50	LCSC
-TP4056-42-ESOP8	Battery charger IC	5	$0.93	LCSC
-ESP32-S3 N16R8	MCU	1	$5.21	LCSC
-Total	with shipping $78.20
+
