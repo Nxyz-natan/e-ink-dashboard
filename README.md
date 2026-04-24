@@ -1,5 +1,21 @@
 # e-ink-dashboard
-e ink dashboard for me to display weather my room temp calander and date and time
+e ink dashboard for me to display weather my room temp calander and date and time and disply my spotify 
+
+Hardware Design
+I designed a custom PCB that integrates:
+ESP32-S3 microcontroller
+BME280 sensor
+Power management (voltage regulator + charging IC)
+USB-C input
+Display connector
+
+Features
+Real-time weather display
+displays whats spotify playing
+Room temperature and humidity using BME280 sensor
+Calendar, date, and time display
+Low power consumption using e-ink technology
+
 here is my schematics 
 <img width="818" height="517" alt="Screenshot 2026-04-18 at 7 24 58 PM" src="https://github.com/user-attachments/assets/fc3147f5-a0a7-4a2d-ab5c-5fbad3047ee2" />
 here my pcb
