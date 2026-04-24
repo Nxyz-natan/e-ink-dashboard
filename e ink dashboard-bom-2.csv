@@ -1,0 +1,12 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"3d printer","case",,15.00,"","hackclub"
+"pcb","pcb",,3.50,"","jlcpcb"
+"7.3-Inch Full Color E Ink Spectra 6 Display High-saturation 800x480 GDEP073E01","display",,47.34,"","good display"
+"Switch 6x6x5mm","button",5,0.36,"","lcsc"
+"ESP32-S3 N16R8","chip",1,5.21,"","lcsc"
+"Resistor 1.2kΩ 0402","Resistor",100,0.09,"","lcsc"
+"ME6211C33M5G-N","voltage regulator",10,0.50,"","lcsc"
+"TP4056-42-ESOP8","battery charger IC",5,0.93,"","lcsc"
+"BME280","temp reader",1,7.42,"","lcsc"
+"Resistor 4.7kΩ 0402","Resistor",100,0.08,"","lcsc"
+"Pin Socket 1x08 2.54mm","Socket",5,0.53,"","lcsc"
