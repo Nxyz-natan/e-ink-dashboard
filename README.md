@@ -2,6 +2,7 @@
 e ink dashboard for me to display weather my room temp calander and date and time and disply my spotify 
 
 Hardware Design
+
 I designed a custom PCB that integrates:
 ESP32-S3 microcontroller
 BME280 sensor
@@ -10,6 +11,7 @@ USB-C input
 Display connector
 
 Features
+
 Real-time weather display
 displays whats spotify playing
 Room temperature and humidity using BME280 sensor
