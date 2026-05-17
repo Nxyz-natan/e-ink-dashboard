@@ -31,7 +31,7 @@ here is my case
 | 7.3" E Ink Spectra 6 Display 800x480 | Display | 1 | $47.34 | Good Display |
 | Resistor 4.7kΩ 0402 | Resistor | 100 | $0.08 | LCSC |
 | Pin Socket 1×08 2.54mm | Socket | 5 | $0.53 | LCSC |
-| USB-C Receptacle 16P HRO TYPE-C-31-M-12 | USB-C | 5 | $0.85 | LCSC |
+|pcb | pcb | 5 | 3.50$ | jlcp |
 | Switch 6×6×5mm | Button | 5 | $0.36 | LCSC |
 | Resistor 1.2kΩ 0402 | Resistor | 100 | $0.09 | LCSC |
 | BME280 | Temp/humidity sensor | 1 | $7.42 | LCSC |
@@ -39,4 +39,4 @@ here is my case
 | TP4056-42-ESOP8 | Battery charger IC | 5 | $0.93 | LCSC |
 | ESP32-S3-WROOM-1-N16R8 | MCU | 1 | $5.21 | LCSC |
 
-**Total with shipping: $$78.20**
+**Total with shipping: 95.85$**
